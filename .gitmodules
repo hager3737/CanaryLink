@@ -1,0 +1,9 @@
+[submodule "esp32-lora-transmitter"]
+	path = esp32-lora-transmitter
+	url = https://github.com/hager3737/esp32-lora-transmitter.git
+[submodule "nrf-aws-mqtt"]
+	path = nrf-aws-mqtt
+	url = https://github.com/hager3737/nrf-aws-mqtt.git
+[submodule "amplify-next-template"]
+	path = amplify-next-template
+	url = https://github.com/hager3737/amplify-next-template.git
