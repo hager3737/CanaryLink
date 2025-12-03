@@ -82,7 +82,7 @@ https://github.com/hager3737/amplify-next-template
 
 ## Architecture
 
-![Canary Link Architecture](images/architecture.png)
+![Canary Link Architecture](/images/architecture.png)
 
 ---
 
