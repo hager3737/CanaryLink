@@ -22,6 +22,10 @@ A low-power underground sensor node that collects temperature readings and trans
 - TX callbacks, FIFO resets, interrupt-driven sending  
 - Custom LM75 and LoRa driver integration
 
+**ESP#" terminal**
+
+![Canary Link esp](/images/esp-terminal.png)
+
 **Repository**  
 https://github.com/hager3737/esp32-lora-transmitter
 
@@ -38,6 +42,10 @@ A surface-level gateway that receives LoRa packets from the mine and forwards th
 - Automatic reconnect and backoff logic  
 - mTLS (mutual TLS) with X.509 certificates  
 - Secure encrypted MQTT transport
+
+**NRF Terminal**
+
+![Canary Link nrf](/images/nrf-terminal.png)
 
 **Repository**  
 https://github.com/hager3737/nrf-aws-mqtt
@@ -74,6 +82,10 @@ A modern dashboard for managing devices and viewing telemetry.
 - Temperature chart
 - Device registration & deletion  
 - Real-time updates
+
+**Data visualization**
+
+![Canary Link Data display](/images/data.png)
 
 **Repository**  
 https://github.com/hager3737/amplify-next-template
