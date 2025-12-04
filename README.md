@@ -28,7 +28,7 @@ A low-power underground sensor node that collects temperature readings and trans
 - TX callbacks, FIFO resets, interrupt-driven sending  
 - Custom LM75 and LoRa driver integration
 
-**ESP#" terminal**
+**ESP32 terminal**
 
 ![Canary Link esp](/images/esp-terminal.png)
 
@@ -92,6 +92,8 @@ A modern dashboard for managing devices and viewing telemetry.
 **Data visualization**
 
 ![Canary Link Data display](/images/data.png)
+
+![Canary Link discord display](/images/discord-data.png)
 
 **Repository**  
 https://github.com/hager3737/amplify-next-template
