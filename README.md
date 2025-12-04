@@ -9,6 +9,12 @@ See individual repositories for more details.
 
 ## Overview
 
+## Architecture
+
+![Canary Link Architecture](/images/flow.png)
+
+---
+
 ### Hardware (ESP32 LoRa Sensor Node)
 A low-power underground sensor node that collects temperature readings and transmits them using long-range LoRa.
 
@@ -89,12 +95,6 @@ A modern dashboard for managing devices and viewing telemetry.
 
 **Repository**  
 https://github.com/hager3737/amplify-next-template
-
----
-
-## Architecture
-
-![Canary Link Architecture](/images/flow.png)
 
 ---
 
